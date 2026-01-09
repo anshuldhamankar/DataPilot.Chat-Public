@@ -621,10 +621,8 @@ chmod 755 tmp/
 - **Training Sessions**: Live training and workshops
 
 ### Contact Information
-- **Technical Support**: support@datapilot.chat
-- **Sales Inquiries**: sales@datapilot.chat
-- **Partnership**: partners@datapilot.chat
-- **General**: info@datapilot.chat
+
+- **General**: dhamankaranshul@gmail.com
 
 ---
 
