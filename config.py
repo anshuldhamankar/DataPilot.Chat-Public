@@ -21,7 +21,7 @@ MAX_RETRIES = 3
 
 # === API Keys ===
 # Set directly or use environment variables for security
-TOGETHER_API_KEY = os.environ.get("TOGETHER_API_KEY") or "6f162109add786c0563504e18939cbd0e04e176acb4bf83c5c3113213312f84d"
+TOGETHER_API_KEY = os.environ.get("TOGETHER_API_KEY") or
 
 # Optional: Set it globally for client init
 os.environ['TOGETHER_API_KEY'] = TOGETHER_API_KEY
